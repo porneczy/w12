@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John",
+        "surname": "Doe",
+        "status": "active"
+    },
+    {
+        "name": "Lil",
+        "surname": "Jesus",
+        "status": "passive"
+    }
+]
