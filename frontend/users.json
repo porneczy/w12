@@ -1,12 +1,1 @@
-[
-    {
-        "name": "John",
-        "surname": "Doe",
-        "status": "active"
-    },
-    {
-        "name": "Lil",
-        "surname": "Jesus",
-        "status": "passive"
-    }
-]
+[{"name":"John","surname":"Doe","status":"active"},{"name":"Lil","surname":"Jesus","status":"passive"},{"name":"dsaasddsa","surname":"saddas"}]
